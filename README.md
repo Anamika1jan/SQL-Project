@@ -11,3 +11,10 @@ Objectives
 * Identify the most common ratings for movies and TV shows.
 * List and analyze content based on release years, countries, and durations.
 * Explore and categorize content based on specific criteria and keywords.
+
+
+ 🔍 Key Insights Uncovered: 
+Movies vs. TV Shows: Movies still dominate, but TV shows are steadily catching up.
+Genre Trends: Drama and comedy top the charts, yet regional genres bring their own unique magic.
+Ratings & Age Groups: Netflix serves a wide audience, but some ratings reveal opportunities for more targeted content.
+Original Content Growth: The numbers clearly show Netflix’s big push toward creating its own content in recent years. 
